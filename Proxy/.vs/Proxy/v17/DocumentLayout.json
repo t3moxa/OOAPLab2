@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\GitHub\\OOAPLab2\\Proxy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66456D00-1BB2-420A-B506-895BC0AA07B0}|Proxy.csproj|D:\\Work\\GitHub\\OOAPLab2\\Proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66456D00-1BB2-420A-B506-895BC0AA07B0}|Proxy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66456D00-1BB2-420A-B506-895BC0AA07B0}|Proxy.csproj|D:\\Work\\GitHub\\OOAPLab2\\Proxy\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66456D00-1BB2-420A-B506-895BC0AA07B0}|Proxy.csproj|solutionrelative:bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66456D00-1BB2-420A-B506-895BC0AA07B0}|Proxy.csproj|D:\\Work\\GitHub\\OOAPLab2\\Proxy\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66456D00-1BB2-420A-B506-895BC0AA07B0}|Proxy.csproj|solutionrelative:bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66456D00-1BB2-420A-B506-895BC0AA07B0}|Proxy.csproj|d:\\work\\github\\ooaplab2\\proxy\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66456D00-1BB2-420A-B506-895BC0AA07B0}|Proxy.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66456D00-1BB2-420A-B506-895BC0AA07B0}|Proxy.csproj|D:\\Work\\GitHub\\OOAPLab2\\Proxy\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66456D00-1BB2-420A-B506-895BC0AA07B0}|Proxy.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\GitHub\\OOAPLab2\\Proxy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Work\\GitHub\\OOAPLab2\\Proxy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAkwGIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:05:13.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookForm.cs",
+              "DocumentMoniker": "D:\\Work\\GitHub\\OOAPLab2\\Proxy\\BookForm.cs",
+              "RelativeDocumentMoniker": "BookForm.cs",
+              "ToolTip": "D:\\Work\\GitHub\\OOAPLab2\\Proxy\\BookForm.cs",
+              "RelativeToolTip": "BookForm.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:35:36.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookForm.cs [Design]",
+              "DocumentMoniker": "D:\\Work\\GitHub\\OOAPLab2\\Proxy\\BookForm.cs",
+              "RelativeDocumentMoniker": "BookForm.cs",
+              "ToolTip": "D:\\Work\\GitHub\\OOAPLab2\\Proxy\\BookForm.cs [Design]",
+              "RelativeToolTip": "BookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:33:17.729Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "D:\\Work\\GitHub\\OOAPLab2\\Proxy\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "D:\\Work\\GitHub\\OOAPLab2\\Proxy\\RegistrationForm.cs",
+              "RelativeToolTip": "RegistrationForm.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:27:02.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "D:\\Work\\GitHub\\OOAPLab2\\Proxy\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "D:\\Work\\GitHub\\OOAPLab2\\Proxy\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:21:20.317Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

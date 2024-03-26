@@ -1,0 +1,17 @@
+D:\Work\GitHub\OOAPLab2\Proxy\obj\Debug\net6.0-windows\Proxy.BookForm.resources
+D:\Work\GitHub\OOAPLab2\Proxy\obj\Debug\net6.0-windows\Proxy.RegistrationForm.resources
+D:\Work\GitHub\OOAPLab2\Proxy\obj\Debug\net6.0-windows\Proxy.csproj.GenerateResource.cache
+D:\Work\GitHub\OOAPLab2\Proxy\obj\Debug\net6.0-windows\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\GitHub\OOAPLab2\Proxy\obj\Debug\net6.0-windows\Proxy.AssemblyInfoInputs.cache
+D:\Work\GitHub\OOAPLab2\Proxy\obj\Debug\net6.0-windows\Proxy.AssemblyInfo.cs
+D:\Work\GitHub\OOAPLab2\Proxy\obj\Debug\net6.0-windows\Proxy.csproj.CoreCompileInputs.cache
+D:\Work\GitHub\OOAPLab2\Proxy\bin\Debug\net6.0-windows\Proxy.exe
+D:\Work\GitHub\OOAPLab2\Proxy\bin\Debug\net6.0-windows\Proxy.deps.json
+D:\Work\GitHub\OOAPLab2\Proxy\bin\Debug\net6.0-windows\Proxy.runtimeconfig.json
+D:\Work\GitHub\OOAPLab2\Proxy\bin\Debug\net6.0-windows\Proxy.dll
+D:\Work\GitHub\OOAPLab2\Proxy\bin\Debug\net6.0-windows\Proxy.pdb
+D:\Work\GitHub\OOAPLab2\Proxy\obj\Debug\net6.0-windows\Proxy.dll
+D:\Work\GitHub\OOAPLab2\Proxy\obj\Debug\net6.0-windows\refint\Proxy.dll
+D:\Work\GitHub\OOAPLab2\Proxy\obj\Debug\net6.0-windows\Proxy.pdb
+D:\Work\GitHub\OOAPLab2\Proxy\obj\Debug\net6.0-windows\Proxy.genruntimeconfig.cache
+D:\Work\GitHub\OOAPLab2\Proxy\obj\Debug\net6.0-windows\ref\Proxy.dll
