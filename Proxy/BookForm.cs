@@ -103,13 +103,9 @@ namespace Proxy
 
         private void CreateCatalogueButton_Click(object sender, EventArgs e)
         {
-            if (currentUser.IsAdmin())
-            {
-                var cc = Catalogue.NewCatalogue("New catalogue");
+            var cc = Catalogue.NewCatalogue(currentUser, "New catalogue");
+            if (cc != null)
                 LoadCatalogue(cc);
-            }
-            else
-                MessageBox.Show("Необходимо обладать правами администратора!");
         }
     }
 }

@@ -65,10 +65,18 @@ namespace Proxy
         {
             return JsonSerializer.Deserialize<ProxyCatalogue>(text, options);
         }
-        public static ProxyCatalogue NewCatalogue(string name)
+        public static ProxyCatalogue NewCatalogue(User usr, string name)
         {
-            ProxyCatalogue rc = new ProxyCatalogue(name);
-            return rc;
+            if (usr.IsAdmin())
+            {
+                ProxyCatalogue rc = new ProxyCatalogue(usr, name);
+                return rc;
+            }
+            else
+            {
+                MessageBox.Show("Необходимо обладать правами администратора!");
+                return null;
+            }
         }
     }
     public class RealCatalogue : Catalogue
@@ -105,9 +113,9 @@ namespace Proxy
     public class ProxyCatalogue : Catalogue
     {
         public RealCatalogue rCatalogue { get; set; }
-        public ProxyCatalogue(string name)
+        public ProxyCatalogue(User usr, string name)
         {
-            this.name=name;
+            this.name = name;
             rCatalogue = new RealCatalogue(name);
         }
         public override List<Book> GetCatalogue()
